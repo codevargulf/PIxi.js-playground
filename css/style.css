@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'VT323', monospace;
+    background-color: #8595a1;
+    
+}
+/*....................................*/
+/* global styles, global class styles */
+/*------------------------------------*/
+
+.container {
+    max-width: 1120px;
+    margin: 0 auto;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 50px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.rules_list {
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+.rules_li {
+    font-size: 25px;
+}
