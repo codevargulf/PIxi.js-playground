@@ -28,6 +28,6 @@ Please make sure you have CORS extension installed on your browser, although the
 
 For full compatibilty please use Chrome.
 
-<a href="https://codevargulf.github.io/Pixi.js-playground/">PREVIEW THE APP</a>
+<a href="https://frenchvargulf.github.io/Pixi.js-playground/">PREVIEW THE APP</a>
 
 Design by kittykatattack
